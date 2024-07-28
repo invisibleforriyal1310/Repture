@@ -1,11 +1,11 @@
-Privacy Policy for Winkle Music
-@ Ujjwal Srivastav - developer
+Privacy Policy for Repture
+@ invisible.1337 - developer
 
-At Winkle Music, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard the personal information you provide to us through the Winkle Music Discord bot.
+At Repture, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard the personal information you provide to us through the Winkle Music Discord bot.
 
 Information We Collect
 
-Winkle Music collects and stores the following information:
+Repture collects and stores the following information:
 
 Discord User IDs: We collect Discord user IDs to provide personalized music recommendations, track user preferences, and enable user-specific features.
 
@@ -25,15 +25,15 @@ Customer Support: We may use your Discord user ID to provide support and assista
 
 Data Security
 
-Winkle Music takes the security of your personal information seriously. We implement appropriate technical and organizational measures to protect against unauthorized access, disclosure, alteration, or destruction of data.
+Repture takes the security of your personal information seriously. We implement appropriate technical and organizational measures to protect against unauthorized access, disclosure, alteration, or destruction of data.
 
 Third-Party Services
 
-Winkle Music may integrate with third-party services, such as music streaming platforms, to provide certain features. Please review the privacy policies of these third-party services as they may have their own policies governing the collection and use of your information.
+Repture may integrate with third-party services, such as music streaming platforms, to provide certain features. Please review the privacy policies of these third-party services as they may have their own policies governing the collection and use of your information.
 
 Changes to This Privacy Policy
 
-Winkle Music reserves the right to update or modify this Privacy Policy at any time. We will notify users of any changes by posting the revised policy on our website or Discord server. Your continued use of the bot after any modifications to the Privacy Policy constitutes acceptance of those changes.
+Repture reserves the right to update or modify this Privacy Policy at any time. We will notify users of any changes by posting the revised policy on our website or Discord server. Your continued use of the bot after any modifications to the Privacy Policy constitutes acceptance of those changes.
 
 Contact Us
 
