@@ -1,6 +1,6 @@
-#Terms of Service for Winkle Music Discord Bot
+#Terms of Service for Repture Discord Bot
 
-**By using the Winkle Music Discord bot ("the Bot"), you agree to comply with and be bound by the following terms and conditions:
+**By using the Repture Discord bot ("the Bot"), you agree to comply with and be bound by the following terms and conditions:
 
 1. Bot Usage
 
@@ -18,19 +18,19 @@
 
 3. Intellectual Property
 
-3.1. The Bot and all associated content, including but not limited to logos, graphics, and audio files, are the intellectual property of Winkle Music or its licensors. You agree not to reproduce, distribute, or modify any part of the Bot without prior written consent.
+3.1. The Bot and all associated content, including but not limited to logos, graphics, and audio files, are the intellectual property of Repture or its licensors. You agree not to reproduce, distribute, or modify any part of the Bot without prior written consent.
 
 4. Limitation of Liability
 
-4.1. Winkle Music and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Bot.
+4.1. Repture and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Bot.
 
 5. Modifications to Terms
 
-5.1. Winkle Music reserves the right to modify or update these Terms of Service at any time. Changes will be effective immediately upon posting. Your continued use of the Bot after any modifications constitutes acceptance of the revised terms.
+5.1. Repture reserves the right to modify or update these Terms of Service at any time. Changes will be effective immediately upon posting. Your continued use of the Bot after any modifications constitutes acceptance of the revised terms.
 
 6. Termination
 
-6.1. Winkle Music reserves the right to suspend or terminate your access to the Bot at any time, without prior notice or liability, for any reason whatsoever, including but not limited to a breach of these Terms of Service.
+6.1. Repture reserves the right to suspend or terminate your access to the Bot at any time, without prior notice or liability, for any reason whatsoever, including but not limited to a breach of these Terms of Service.
 
 7. Governing Law
 
